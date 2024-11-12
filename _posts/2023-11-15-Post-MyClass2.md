@@ -1,13 +1,18 @@
 ---
 layout: posts
-title: چه هوای خوبی
+title: try to be yourself
 ---
+## No matter what others think or do
 
-- We wrote some code
-- We built our website
-- We pushed
+just try to be the best of yourself
 
-# this is a header
+although you may not the first 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Af4YySLTzuw?si=w-qzLNtm1X3kUT7W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+but you can be one of the best 
+
+-
+-
+-
+
+# 
 

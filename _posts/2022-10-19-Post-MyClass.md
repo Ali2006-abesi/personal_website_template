@@ -1,10 +1,10 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title:what is the meaning of success
 ---
-
-- We wrote some code
-- We built our website
-- We pushed
-
-# this is a header
+## success is not the thing which others await
+perhaps it is what you think
+-
+-
+-
+#

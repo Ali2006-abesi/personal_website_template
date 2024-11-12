@@ -1,23 +1,20 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: Reach your goal
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## when your goal recognize
+you can obtain it easily
+-
+-
+-
+-
 
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+[website](http://www.google.com)
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/2.jpg "Team Picture")
 
 ---
-**Test**: This is atest
+**Test**:

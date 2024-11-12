@@ -1,23 +1,20 @@
 ---
 layout: posts
-title: Test Post
+title: Nothing impossible
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## If you try hard and believe yourself
+you can reach anything which you want like:
+- happiness
+- peace
+- money
+- good standing
 
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+[website](http://www.google.com)
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/3.jpg "trying hard")
 
 ---
-**Test**: This is atest
+**Test**: 
