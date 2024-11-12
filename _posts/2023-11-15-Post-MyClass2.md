@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: try to be yourself
+title: Try to be yourself
 ---
 ## No matter what others think or do
 
@@ -14,5 +14,5 @@ but you can be one of the best
 -
 -
 
-# 
+
 
