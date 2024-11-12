@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Ali Mohammad Abesi"
-  avatar           : "C:\Users\lenovo\Downloads\Eitaa Desktop\photo_ali.jpg"
+  avatar           : "/assets/images/photo_ali.jpg"
   bio              : Be learner.
   location         : "تهران"
   email            : alimohammadabesi85@gmail.com
