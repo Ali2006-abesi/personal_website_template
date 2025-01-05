@@ -10,7 +10,7 @@ comments: false
 
 # Exam day shots
 
-![Painting](/assets/images/screen%20shot.jpg)
+![Painting](/assets/images/axs.jpg)
 
 - [sample item 1](https://fccourse.liara.run)
 - sample item 2
