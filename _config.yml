@@ -16,11 +16,11 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "Tehran" 
-title                    : "Ali Mohammad"
+locale                   : "Iran" 
+title                    : "Ali MHMD"
 title_separator          : "-"
-name                     : "Ali Mohammad " 
-description              : "Welcome to my web site."
+name                     : "Ali MHMD" 
+description              : "Nice to meet you."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               :
 facebook:
-  username               : sauleh.eetemadi
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ali Mohammad Abesi"
+  name             : "Ali Mohammad"
   avatar           : "/assets/images/photo_ali.jpg"
   bio              : Be learner.
   location         : "Tehran"
