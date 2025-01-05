@@ -12,9 +12,6 @@ title: list of the details
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>تصویر شکسته</title>
-</head>
 <body>
     <img src="broken_image.jpg" alt="تصویر بارگذاری نشد">
 </body>
