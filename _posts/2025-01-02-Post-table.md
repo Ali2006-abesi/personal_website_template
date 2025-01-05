@@ -10,12 +10,12 @@ title: list of the details
 |-|-  | 
 
 
-<!DOCTYPE html>
-<html>
+
+
 <body>
     <img src="broken_image.jpg" alt="تصویر بارگذاری نشد">
 </body>
-</html>
+
 
 
 
